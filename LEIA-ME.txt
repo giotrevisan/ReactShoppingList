@@ -1,0 +1,17 @@
+DESCRIÇÃO
+===========================================================================
+
+REACT + VITE V7.0.6, utilizando npm como gerenciador de pacotes.
+
+Bibliotecas e Frameworks externos (de interesse):
+ - TailwindCSS
+ - shadcn/ui
+ - lucide-react
+
+Projeto já compilado caso necessário.
+
+INSTRUÇÕES
+===========================================================================
+npm install
+npm run dev -> Servidor de desenvolvimento
+npm run build && npm run preview -> Servidor de visualização
