@@ -1,5 +1,10 @@
 # React Shopping List
 
+<div align="center">
+  <img width="480" height="238" alt="The main screen of the application." src="https://github.com/user-attachments/assets/a88dade0-81fc-402e-917e-cbd117b41c03" />
+  <br />
+</div>
+
 A single-page application built with React, TypeScript, and Vite that simulates an online shopping experience using mock data.
 
 ## Features
